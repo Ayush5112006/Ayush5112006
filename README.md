@@ -391,7 +391,7 @@ const ayush = {
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:ayush5112006@gmail.com" target="_blank">
+  <a href="mailto:thummarayush05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
@@ -406,7 +406,7 @@ const ayush = {
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ayush5112006@gmail.com" target="_blank">
+  <a href="mailto:thummarayush05@gmail.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294016-bef4c312-9097-4a65-a594-4151b58743a9.gif" width="60" alt="Gmail" onError="this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg'" />
   </a>
   &nbsp;&nbsp;
