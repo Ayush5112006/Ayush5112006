@@ -318,24 +318,6 @@ const ayush = {
 <!-- ✨ Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                           ✦ GITHUB TROPHIES ✦                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Trophy" width="35" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=350&height=45&lines=GITHUB+TROPHIES" alt="Trophies" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Trophy" width="35" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush5112006&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
-
 <!-- ✨ Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
