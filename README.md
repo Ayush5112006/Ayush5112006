@@ -395,6 +395,10 @@ const ayush = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
+  <a href="https://www.instagram.com/mr.thummar__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Ayush5112006" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -408,6 +412,10 @@ const ayush = {
   &nbsp;&nbsp;
   <a href="mailto:thummarayush05@gmail.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294016-bef4c312-9097-4a65-a594-4151b58743a9.gif" width="60" alt="Gmail" onError="this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg'" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mr.thummar__" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294014-934c9c81-8b29-4fb5-901d-72e2cfc236f0.gif" width="60" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ayush5112006" target="_blank">
