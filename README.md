@@ -387,12 +387,16 @@ const ayush = {
   <br><br>
 
   <!-- 🔗 Social Links - Badges -->
-  <a href="https://github.com/Ayush5112006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/ayush-thummar-471720309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayush5112006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ayush5112006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br><br>
@@ -401,6 +405,14 @@ const ayush = {
   <a href="https://linkedin.com/in/ayush-thummar-471720309" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ayush5112006@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294016-bef4c312-9097-4a65-a594-4151b58743a9.gif" width="60" alt="Gmail" onError="this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg'" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ayush5112006" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="GitHub" />
+  </a>
 
 </div>
 
@@ -408,24 +420,25 @@ const ayush = {
 
 <!-- 📧 Reach Out Section -->
 <div align="center">
-  
   **📧 Feel free to reach out for:**
-  
   <table>
     <tr>
-      <td align="center">💻</td>
-      <td>Collaboration on <strong>Full-Stack & Web Apps</strong></td>
-    </tr>
-    <tr>
-      <td align="center">📊</td>
-      <td><strong>Data Science & Analytics</strong> projects</td>
-    </tr>
-    <tr>
       <td align="center">🤖</td>
-      <td><strong>LLM & AI integrations</strong></td>
+      <td>Collaboration on <strong>ML/DL projects</strong></td>
+    </tr>
+    <tr>
+      <td align="center">🌐</td>
+      <td><strong>Open source</strong> contributions</td>
+    </tr>
+    <tr>
+      <td align="center">💡</td>
+      <td>Tech discussions & <strong>knowledge sharing</strong></td>
+    </tr>
+    <tr>
+      <td align="center">🧩</td>
+      <td><strong>Problem-solving</strong> & algorithmic challenges</td>
     </tr>
   </table>
-  
 </div>
 
 <!-- ✨ Animated Divider -->
