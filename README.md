@@ -423,7 +423,7 @@ const ayush = {
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ayush5112006" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="GitHub" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-85e8d648-9c98-463e-bb3a-a1b804791556.gif" width="60" alt="GitHub" />
   </a>
 
 </div>
