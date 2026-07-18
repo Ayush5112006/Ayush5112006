@@ -415,11 +415,11 @@ const ayush = {
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/mr.thummar__" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294014-934c9c81-8b29-4fb5-901d-72e2cfc236f0.gif" width="60" alt="Instagram" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.gg/9r6puzM4" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-1cf0ab67-27b6-4eb9-bf55-6b80155b9a89.gif" width="60" alt="Discord" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ayush5112006" target="_blank">
