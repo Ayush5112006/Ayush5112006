@@ -409,14 +409,14 @@ const ayush = {
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://linkedin.com/in/ayush-thummar-471720309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <br><br>
 
   <!-- 🎨 Animated Social Icons -->
-  <a href="https://github.com/Ayush5112006" target="_blank">
+  <a href="https://linkedin.com/in/ayush-thummar-471720309" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn" />
   </a>
 
