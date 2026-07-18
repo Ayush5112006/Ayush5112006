@@ -383,12 +383,12 @@ const ayush = {
   <br><br>
 
   <!-- 🔗 Social Links - Badges -->
-  <a href="https://linkedin.com/in/ayush-thummar-471720309" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=thummarayush05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ayush-thummar-471720309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/mr.thummar__" target="_blank">
@@ -406,12 +406,12 @@ const ayush = {
   <br><br>
 
   <!-- 🎨 Animated Social Icons -->
-  <a href="https://linkedin.com/in/ayush-thummar-471720309" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=thummarayush05@gmail.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294016-bef4c312-9097-4a65-a594-4151b58743a9.gif" width="60" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ayush-thummar-471720309" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/mr.thummar__" target="_blank">
