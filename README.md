@@ -333,8 +333,7 @@ const ayush = {
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayush5112006&show_icons=true&theme=radical&hide_border=true&title_color=FF7B00&icon_color=FFD700&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush5112006&theme=radical&hide_border=true&background=0D1117&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush5112006&theme=radical&hide_border=true&background=0D1117&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00" alt="GitHub Streak" />
 </div>
 
 <!-- ✨ Animated Divider -->
