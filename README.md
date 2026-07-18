@@ -318,9 +318,6 @@ const ayush = {
 <!-- ✨ Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ✨ Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                      ✦ GITHUB STATS & ACHIEVEMENTS ✦                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -407,19 +404,19 @@ const ayush = {
 
   <!-- 🎨 Animated Social Icons -->
   <a href="https://linkedin.com/in/ayush-thummar-471720309" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Social-Media/linkedin-icon.gif" width="60" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:thummarayush05@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294016-bef4c312-9097-4a65-a594-4151b58743a9.gif" width="60" alt="Gmail" onError="this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg'" />
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Social-Media/gmail.gif" width="60" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/mr.thummar__" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294014-934c9c81-8b29-4fb5-901d-72e2cfc236f0.gif" width="60" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Social-Media/instagram.gif" width="60" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ayush5112006" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Social-Media/github.gif" width="60" alt="GitHub" />
   </a>
 
 </div>
