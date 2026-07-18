@@ -396,6 +396,10 @@ const ayush = {
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
+  <a href="https://discord.gg/9r6puzM4" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Ayush5112006" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -413,6 +417,10 @@ const ayush = {
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/mr.thummar__" target="_blank">
     <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Social-Media/instagram.gif" width="60" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.gg/9r6puzM4" target="_blank">
+    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Social-Media/discord.gif" width="60" alt="Discord" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ayush5112006" target="_blank">
