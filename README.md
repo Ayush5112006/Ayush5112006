@@ -15,7 +15,7 @@
   <!-- ✨ Animated Typing Introduction -->
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&color=FF7B00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9C%A8+Full+Stack+Web+Developer+%7C+Software+Engineer;%F0%9F%93%8A+Data+Analyst+%26+ML+Enthusiast;%F0%9F%9A%80+Building+Per-LLM+Evaluation+Dashboards;%F0%9F%92%AB+Problem+Solver+%7C+Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3500&amp;pause=800&amp;color=FF7B00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=700&amp;height=120&amp;lines=%E2%9C%A8+Full+Stack+Web+Developer+%7C+Software+Engineer;%F0%9F%93%8A+Data+Analyst+%26+ML+Enthusiast;%F0%9F%9A%80+Mobile+App+Developer+%28Flutter+%2F+React+Native%29;%F0%9F%9A%80+Building+Per-LLM+Evaluation+Dashboards;%F0%9F%92%AB+Problem+Solver+%7C+Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
   <!-- 🏷️ Profile Badges -->
