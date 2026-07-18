@@ -439,6 +439,10 @@ const ayush = {
       <td>Collaboration on <strong>ML/DL projects</strong></td>
     </tr>
     <tr>
+      <td align="center">📱</td>
+      <td><strong>Mobile App Development</strong> (Flutter/React Native)</td>
+    </tr>
+    <tr>
       <td align="center">🌐</td>
       <td><strong>Open source</strong> contributions</td>
     </tr>
