@@ -388,7 +388,7 @@ const ayush = {
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:thummarayush05@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thummarayush05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
@@ -407,7 +407,7 @@ const ayush = {
     <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Social-Media/linkedin-icon.gif" width="60" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:thummarayush05@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thummarayush05@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Social-Media/gmail.gif" width="60" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
