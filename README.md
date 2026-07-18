@@ -333,7 +333,7 @@ const ayush = {
 <br>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Ayush5112006&theme=dark&hide_border=true&background=000000&ring=FF7B00&fire=FFD700&currStreakLabel=FF7B00&sideLabels=333333&dates=666666" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Ayush5112006&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF&amp;ring=FF7B00&amp;fire=FFB300&amp;currStreakLabel=FF7B00&amp;sideLabels=333333&amp;dates=666666" alt="GitHub Streak" />
 </div>
 
 <!-- ✨ Animated Divider -->
