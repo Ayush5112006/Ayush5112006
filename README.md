@@ -333,7 +333,7 @@ const ayush = {
 <br>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush5112006&theme=dark&hide_border=true&background=00000000&ring=FF7B00&fire=FFD700&currStreakLabel=FF7B00&sideLabels=333333&dates=666666" alt="GitHub Streak" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush5112006&theme=dark&hide_border=true&background=000000&ring=FF7B00&fire=FFD700&currStreakLabel=FF7B00&sideLabels=333333&dates=666666" alt="GitHub Streak" />
 </div>
 
 <!-- ✨ Animated Divider -->
