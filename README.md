@@ -10,7 +10,7 @@
 <div align="center">
   
   <!-- 🌌 Cosmic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=94d2bd&height=200&section=header&text=𝙰𝚈𝚄𝚂𝙷&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=✧%20Engineering%20Scalable%20Web%20%26%20Data%20Solutions%20✧&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=94d2bd&amp;height=200&amp;section=header&amp;text=𝙰𝚈𝚄𝚂𝙷&amp;fontSize=70&amp;fontColor=000000&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=✧%20Engineering%20Scalable%20Web%20%26%20Data%20Solutions%20✧&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
   <!-- ✨ Animated Typing Introduction -->
   <br>
